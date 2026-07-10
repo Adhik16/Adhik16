@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adhik16
+- 👋 Hi, I’m @Adhik
 - 👀 I’m interested in computers and technologies 
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on webdevlopment
