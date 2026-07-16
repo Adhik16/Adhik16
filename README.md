@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adhik
 - 👀 I’m interested in computers and technologies 
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on webdevlopment
 - 📫 How to reach me with email- adhikshakya16@gmail.com
 - 😄 Pronouns: Im male 
 - ⚡ Fun fact: I know html, css and python. I am also a musician..
